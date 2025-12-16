@@ -1,5 +1,4 @@
-# 🚀 Spacelift – Complete DevOps Guide (With Examples)
-
+# 🚀 Spacelift 
 ---
 
 ## 1️⃣ What is Spacelift?
